@@ -1,0 +1,6 @@
+Kolya;Saychuk;15 06 1975
+Gena;Saychuk;16 08 1976
+Seva;Evgienko;11 04 1986
+Vasya;Pupko;12 05 1988
+Tolya;Avko;13 06 1989
+Olya;Blavko;14 07 1991
